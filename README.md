@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Khashayar Nourian
+[![](https://img.shields.io/badge/-Khashayar%20Nourian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knourian/)](https://www.linkedin.com/in/knourian/)
 <!--
 **knourian/knourian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
