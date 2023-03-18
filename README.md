@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Kashayar Nourian
+# Hi there 👋
 
 ![Sofware developer](https://raw.githubusercontent.com/knourian/knourian/main/header.png)
 
