@@ -13,7 +13,12 @@ Skills: C# | .Net | Python | SQL
 - 👯 I’m looking to collaborate on .Net Projects
 - 📍 I'm Currently in [#12in23 Challenge](https://exercism.org/challenges/12in23) of Exercism
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=knourian&show_icons=true&count_private=true)  
+<div align="center">
+  <a href="https://github.com/knourian">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knourian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knourian&layout=compact&langs_count=7&theme=radical&hide_progress=true"/>
+</div>
+
 
 ---
 
@@ -22,7 +27,5 @@ I am a software engineer with expertise in programming, web development, and dat
 I have experience in using tools such as Git and Agile methodologies to work well in a team environment and deliver reliable code. I also have successful projects and contributions to open-source communities, including publishing my first NuGet package.
 
 I am always looking for opportunities to learn new technologies, collaborate with like-minded individuals, and work on challenging projects that make a significant impact. I have strong analytical and problem-solving skills that enable me to deliver quality software that meets customer expectations.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knourian)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/knourian)
