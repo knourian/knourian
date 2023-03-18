@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Kashayar Nourian
 
-![Sofware developer](header-transformed.png)
+![Sofware developer](https://raw.githubusercontent.com/knourian/knourian/main/header.png)
 
 ## 🛠 &nbsp;Tech Stack
 
