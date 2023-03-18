@@ -2,13 +2,22 @@
 
 ![Sofware developer](https://raw.githubusercontent.com/knourian/knourian/main/header.png)
 
----
+## 🛠 &nbsp;Tech Stack
 
 Skills: C# | .Net | Python | SQL
 
 ---
 
-- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/-Khashayar%20Nourian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knourian/)](https://www.linkedin.com/in/knourian/)
+- 📫 How to reach me: 
+<div align="center">
+<a href="https://www.linkedin.com/in/knourian" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Khashayar%20Nourian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knourian" alt="linkedin"/>
+</a><a href="mailto:knourian.dev@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-knourian.dev@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+</div>
+
+
 - 🌱 I’m currently learning Go language
 - 👯 I’m looking to collaborate on .Net Projects
 - 📍 I'm Currently in [#12in23 Challenge](https://exercism.org/challenges/12in23) of Exercism
