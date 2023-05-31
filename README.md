@@ -24,8 +24,8 @@ Skills: C# | .Net | Python | SQL
   
 <div align="center">
   <a href="https://github.com/knourian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=knourian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knourian&layout=compact&langs_count=7&theme=radical&hide_progress=true"/>
+  <img height="180em" src="https://github-readme-stats-knourian.vercel.app/api?username=knourian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-knourian.vercel.app/api/top-langs/?username=knourian&layout=compact&langs_count=7&theme=radical&hide_progress=true"/>
 </div>
 
 ---
