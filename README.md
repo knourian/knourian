@@ -18,7 +18,7 @@ Skills: C# | .Net | Python | SQL
   </a>
 </div>
 
-- 🌱 I’m currently learning Go language
+<!-- - 🌱 I’m currently learning Go language -->
 - 👯 I’m looking to collaborate on .Net Projects
 - 📍 I'm Currently in [#12in23 Challenge](https://exercism.org/challenges/12in23) of Exercism
   
