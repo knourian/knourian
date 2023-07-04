@@ -36,4 +36,4 @@ I have experience in using tools such as Git and Agile methodologies to work wel
 
 I am always looking for opportunities to learn new technologies, collaborate with like-minded individuals, and work on challenging projects that make a significant impact. I have strong analytical and problem-solving skills that enable me to deliver quality software that meets customer expectations.
 
-![Profile views](https://gpvc.arturio.dev/knourian)
+![Profile views](https://komarev.com/ghpvc/?username=knourian)
