@@ -29,10 +29,10 @@ Skills: C# | .Net | Python | SQL | JavaScript | Git | Docker
   
 <div align="center">
   <a href="https://github.com/knourian">
-  <img height="180em" src="https://github-readme-stats-knourian.vercel.app/api?username=knourian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-knourian.vercel.app/api/top-langs/?username=knourian&layout=compact&langs_count=7&theme=radical&hide_progress=true"/>
+  <img height="180em" src="http://github-readme-stats-lake-kappa-83.vercel.app/api?username=knourian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="http://github-readme-stats-lake-kappa-83.vercel.app/api/top-langs/?username=knourian&layout=compact&langs_count=7&theme=radical&hide_progress=true"/>
 </div>
-
+      
 ---
 
 I am a software engineer with expertise in programming, web development, and database development using C# and .NET Core. I have a passion for developing high-performance, scalable, and secure systems that solve complex challenges.
